@@ -1,4 +1,4 @@
-class Main {
+class  {
 
   public static void main(String[] args) {
     
@@ -7,6 +7,6 @@ class Main {
 
     // add two numbers
     int sub = first - second;
-    System.out.println(first + " - " + second + " = "  + sum);
+    System.out.println(first + " - " + second + " = "  + sub);
   }
 }
